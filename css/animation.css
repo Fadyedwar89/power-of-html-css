@@ -1,0 +1,127 @@
+h1::after {
+        content: "";
+        animation: typing 3s infinite;
+      }
+      
+ @keyframes typing {
+        0% {
+          content: "|";
+        }
+        3% {
+          content: "D|";
+        }
+        5% {
+          content: "De|";
+        }
+        7% {
+          content: "Dev|";
+        }
+        10% {
+          content: "Deve|";
+        }
+        13% {
+          content: "Devel|";
+        }
+        15% {
+          content: "Develo|";
+        }
+        17% {
+          content: "Develop|";
+        }
+        20% {
+          content: "Developm|";
+        }
+        24% {
+          content: "Developme|";
+        }
+        25% {
+          content: "Developmen|";
+        }
+        27% {
+          content: "Development|";
+        }
+        30% {
+          content: "Development|";
+        }
+        32% {
+          content: "Developmen|";
+        }
+        35% {
+          content: "Developme|";
+        }
+        37% {
+          content: "Develop|";
+        }
+        40% {
+          content: "Develo|";
+        }
+        42% {
+          content: "Devel|";
+        }
+        45% {
+          content: "Deve|";
+        }
+        47% {
+          content: "Dev|";
+        }
+        50% {
+          content: "De|";
+        }
+        52% {
+          content: "D|";
+        }
+        54% {
+          content: "|";
+        }
+        58% {
+          content: "D|";
+        }
+        60% {
+          content: "De|";
+        }
+        62% {
+          content: "Des|";
+        }
+        64% {
+          content: "Desi|";
+        }
+        66% {
+          content: "Desig|";
+        }
+        68% {
+          content: "Design|";
+        }
+        70% {
+          content: "Designe|";
+        }
+        72% {
+          content: "Designer|";
+        }
+        74% {
+          content: "Designer|";
+        }
+        76% {
+          content: "Designe|";
+        }
+        78% {
+          content: "Design|";
+        }
+        80% {
+          content: "Desig|";
+        }
+        82% {
+          content: "Desi|";
+        }
+        84% {
+          content: "Des|";
+        }
+        86% {
+          content: "De|";
+        }
+        87% {
+          content: "D|";
+        }
+        90% {
+          content: "|";
+        }
+      }
